@@ -1,0 +1,20 @@
+*
+{
+    text-align: center;
+    background-image: url("beach-g0c625470e_1920.jpg");
+
+}
+
+h2
+{
+    color: green;
+    opacity: 0.7;
+}
+
+
+ul
+{
+        border: 4px black;
+        box-shadow: 5px 5px 5px black;
+
+}

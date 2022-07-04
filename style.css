@@ -1,0 +1,49 @@
+.intro
+{
+    color: rgb(0, 0, 0);
+    font-weight: lighter;
+    opacity: 0.6;
+}
+
+p2
+{
+    font-size: 1.1em;
+}
+
+.intron
+{
+
+    font-size: 1.2em;
+    font-family: 'Arial Black', sans-serif;
+    font-style: oblique;
+    text-shadow: 1em;
+}
+
+
+body
+{
+    border: 3px black inset;
+    border-radius: 15px;
+    box-shadow: 6px 6px 6px black;
+    background-image: url("beach-g0c625470e_1920.jpg");
+    background-attachment: fixed;
+    text-align: center;
+}
+
+a:hover{
+    color: green;
+}
+
+a:visited{
+    color: grey;
+}
+
+nav
+{
+    border: 3px black ridge;
+    text-align: left;
+    max-width: 24%;
+    padding: 10px;
+    margin: 10px;
+
+}
